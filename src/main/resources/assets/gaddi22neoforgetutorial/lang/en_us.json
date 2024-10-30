@@ -1,4 +1,7 @@
 {
   "item.gaddi22neoforgetutorial.bismuth" :  "Bismuth",
-  "item.gaddi22neoforgetutorial.raw_bismuth" :  "Raw Bismuth"
+  "item.gaddi22neoforgetutorial.raw_bismuth" :  "Raw Bismuth",
+
+  "block.gaddi22neoforgetutorial.bismuth_block": "Block of Bismuth",
+  "block.gaddi22neoforgetutorial.bismuth_ore": "Bismuth Ore"
 }
